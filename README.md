@@ -33,3 +33,28 @@
     <li>Data Generator - https://passwordsgenerator.net/sha256-hash-generator/</li>
     <li>UUID Generator - https://www.uuidgenerator.net/</li>
 </ul>
+<hr/>
+<h1>IMAGE RESOURCES:</h1>
+<ul>
+    <li>Free Stock Images - https://www.pexels.com</li>
+    <li>Free Stock Images With Great API - https://unsplash.com/</li>
+    <li>Free-Vectors, mockups - https://www.freepik.com</li>
+    <li>Dummy Image Placeholders - https://source.unsplash.com</li>
+    <li>Dummy Image Placeholders - https://placeholder.com</li>
+    <li>Free Icons - https://www.iconfinder.com</li>
+</ul>
+<hr/>
+<h1>CODE OPTIMIZATION:</h1>
+<ul>
+    <li>Minify JS/CSS - http://minifier.org</li>
+    <li>Code Optimization Tools - https://codebeautify.org</li>
+    <li>Code Diff Checker - https://www.diffchecker.com</li>
+</ul>
+<hr/>
+<h1>IMAGE COMPRESSION:</h1>
+<ul>
+    <li>Compress All Images - https://compressor.io/compress</li>
+    <li>Compress JPG - http://jpeg-optimizer.com/</li>
+    <li>Compress PNG - https://tinypng.com/</li>
+</ul>
+<hr/>
