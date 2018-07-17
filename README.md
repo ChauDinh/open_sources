@@ -58,3 +58,8 @@
     <li>Compress PNG - https://tinypng.com/</li>
 </ul>
 <hr/>
+<h1>RESPONSIVENESS</h1>
+<ul>
+    <li>Device Testing - http://www.responsinator.com</li>
+    <li>What's My Borwser Size? - https://www.webpagefx.com/tools/whats-my-browser-size/</li>
+</ul>
