@@ -93,7 +93,7 @@
     <li>Snippet Manager - https://pastebin.com</li>
 </ul>
 <hr/>
-<h1>COLOR AND DESGIN</h1>
+<h1>COLOR AND DESIGN</h1>
 <ul>
     <li>Create Color Schemes - https://color.hailpixel.com</li>
     <li>Get Color Schemes of Websites - http://stylifyme.com</li>
